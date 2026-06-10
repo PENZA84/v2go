@@ -1,0 +1,5 @@
+#profile-title: base64:8J+GkyBHaXQ6RGFuaWFsU2FtYWRpIHwgU3ViNjEg8J+UpQ==
+#profile-update-interval: 1
+#support-url: https://github.com/Danialsamadi/v2go
+#profile-web-page-url: https://github.com/Danialsamadi/v2go
+trojan://humanity@104.20.6.134:443?security=tls&type=ws&sni=www.multiplydose.com&path=/assignment#v2go%20%7C%20TROJAN%20%7C%201
