@@ -1,24 +1,23 @@
 # V2Ray Config Update Summary
-Generated on: 2026-07-13 11:47:58 UTC
+Generated on: 2026-07-13 13:54:36 UTC
 
 ## Configuration Statistics
-- Total unique configurations: 28050
+- Total unique configurations: 27988
 - Protocol breakdown:
-  - vmess: 1294 configs
-  - vless: 16697 configs
-  - trojan: 8525 configs
-  - ss: 1533 configs
+  - vmess: 1304 configs
+  - vless: 16636 configs
+  - trojan: 8523 configs
+  - ss: 1523 configs
   - ssr: 0 configs
-  - hy2: 1 configs
+  - hy2: 2 configs
   - tuic: 0 configs
   - warp://: 0 configs
 
 ## Performance
-- Processing time: 124.55 seconds
-- Duplicate removal: 87.7% reduction (from 228096 to 28050)
+- Processing time: 127.28 seconds
+- Duplicate removal: 87.7% reduction (from 228245 to 27988)
 
 ## ⚠️ Failed Links (404 or Errors)
 The following sources could not be reached or returned no data:
-- https://raw.githubusercontent.com/itsyebekhe/PSG/main/lite/subscriptions/xray/normal/mix (HTTP 404)
 - https://raw.githubusercontent.com/miladtahanian/V2ray-Config/main/All_Configs_Sub.txt (HTTP 404)
-- https://raw.githubusercontent.com/miladtahanian/V2RayScrapeByCountry/refs/heads/main/output_configs/Vmess.txt (HTTP 404)
+- https://raw.githubusercontent.com/itsyebekhe/PSG/main/lite/subscriptions/xray/normal/mix (HTTP 404)
